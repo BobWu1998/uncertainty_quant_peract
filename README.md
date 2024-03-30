@@ -8,7 +8,7 @@
    pip install --upgrade pip
 
    # git clone from submodules:
-   [PyRep](https://github.com/BobWu1998/YARR/tree/peract)
+   [PyRep](https://github.com/stepjam/PyRep.git)
    RLBench: git clone -b peract https://github.com/MohitShridhar/RLBench.git # note: 'peract' branch
    [YARR](https://github.com/BobWu1998/YARR/tree/peract) 
    [peract_reliability](https://github.com/BobWu1998/peract_reliability/tree/temperature_scaling) 
